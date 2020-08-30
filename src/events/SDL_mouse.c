@@ -233,7 +233,7 @@ SDL_SetMouseFocus(SDL_Window * window)
     }
 
     /* Update cursor visibility */
-    SDL_SetCursor(NULL);
+    //SDL_SetCursor(NULL);
 }
 
 /* Check to see if we need to synthesize focus events */
